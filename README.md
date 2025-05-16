@@ -36,9 +36,7 @@ Barangay Litlit Census Web Application (Database - IM)
 
 # MERGE TO MAIN (IF TESTED ALREADY)
 - once feature is working and tested:
-  - git checkout main
-  - git pull origin
-  - git merge feature/my-feature
+  - git push origin feature/my-feature
 
 # DELETE FEATURE BRANCH (OPTIONAL)
   - git branch -d feature/my-feature
