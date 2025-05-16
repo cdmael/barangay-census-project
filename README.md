@@ -8,7 +8,7 @@ Barangay Litlit Census Web Application (Database - IM)
   - click "View"
   - open "Command Palette"
   - select "Git: Clone"
-  - paste: https://github.com/kyrstnxx/ProjectDatabaseIM.git
+  - paste: https://github.com/kyrstnxx/IMProject-CensusForm.git
   - generate new folder
   - open in VSCode
 
