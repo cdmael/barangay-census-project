@@ -1,6 +1,8 @@
 # ProjectDatabaseIM
 Barangay Litlit Census Web Application (Database - IM)
 
+PROGRESS: https://docs.google.com/document/d/1rrKZpe0anHQw5cg1_Q0SjNEbKAiaRsS_CX6aCbgkrdU/edit?usp=sharing
+
 #FigmaLink
 https://www.figma.com/design/za3yRonBGoYl4Fsgbjugji/Census-Web?node-id=0-1&t=k6YAyMGTrmWwp2nx-1
 
