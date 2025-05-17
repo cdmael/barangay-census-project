@@ -1,6 +1,9 @@
 # ProjectDatabaseIM
 Barangay Litlit Census Web Application (Database - IM)
 
+#FigmaLink
+https://www.figma.com/design/za3yRonBGoYl4Fsgbjugji/Census-Web?node-id=0-1&t=k6YAyMGTrmWwp2nx-1
+
 # What to do:
 - download and set-up Git
 - check "Enable Git" in VSCode
