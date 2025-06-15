@@ -1,0 +1,326 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: white;
+  color: black;
+  line-height: 1.6;
+  padding-top: 90px;
+}
+
+/* HEADER */
+header {
+  background-color: #70A575;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: white;
+  padding: 5px 19px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.logo {
+  margin-left: 30px;
+  display: flex;
+  font-size: 50px;
+  font-weight: 800;
+  text-shadow: 1px 0 0 white;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo img {
+  height: 60px;
+}
+
+nav {
+  margin-top: 40px;
+  margin-right: 30px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/*controls*/
+.edit-person-page .controls {
+  margin: 20px 3px;
+}
+
+/* Wrap all page content */
+.edit-person-page {
+  font-size: 13px;
+  padding-left: 60px;
+  padding-right: 30px;
+  padding-bottom: 60px;
+  line-height: 1.6;
+}
+
+/* Breadcrumb spacing + font */
+.edit-person-page .breadcrumb {
+  font-size: 14px;
+  color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.edit-person-page .breadcrumb a {
+  text-decoration: none;
+  color: #4D7851;
+} 
+
+.edit-person-page .breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+/* Controls bar aligned inside container */
+.edit-person-page .controls-bar {
+  display: flex;
+  justify-content: space-between; /* breadcrumb left, buttons right */
+  align-items: center;            /* vertical alignment */
+  margin-top: 10px;
+}
+
+.buttons {
+  display: flex;
+  gap: 15px;
+  
+}
+
+/* Save button */
+.edit-person-page .controls-bar .button-link {
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 3px 15px;
+  background-color: #70A575;
+  font-weight: 600;
+  border: none;         /* Removes default border */
+  outline: none;        /* Removes focus outline */
+  cursor: pointer;      /* Makes button look clickable */
+}
+
+.edit-person-page .button-link:hover {
+  background-color: #4D7851;
+}
+
+/*form structure*/
+/* Form group structure */
+.form-wrapper {
+  padding: 0 13px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+/* Set label width for alignment */
+.two-column-form label {
+  font-size: 13px;
+  font-weight: 400;
+  width: 150px; /* adjust this width as needed */
+  margin-bottom: 0; /* remove vertical spacing */
+  text-align: right;
+}
+
+/* Input styling */
+.two-column-form input {
+  font-size: 12px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  flex: 1; /* allow input to expand */
+}
+
+/* Form column layout */
+.form-columns {
+  display: flex;
+  gap: 40px;
+}
+
+.edit-person-page .column-title {
+  font-size: 22px;
+  font-weight: 400;
+
+}
+
+.edit-person-page .left-column {
+  flex: 1;
+  margin-left: -60px;
+}
+
+.edit-person-page .right-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-right: 15px;
+}
+
+/*education part*/
+.education-wrapper .form-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 15px;
+}
+
+.education-wrapper .form-columns input{
+  font-size: 12px;
+  padding: 6px 5px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  flex: 1; /* allow input to expand */
+}
+
+.education-wrapper label {
+  width: 120px;
+  font-size: 13px;
+}
+
+.education-wrapper input {
+  flex: 1;
+  font-size: 13px;
+}
+
+.form-columns .recognition-field {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.recognition-field input[type="text"] {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 5px;
+  min-width: 390px; 
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.remove-btn {
+  background-color: #C42A2A;
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 100%;
+  padding: 5px 8px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.remove-btn:hover {
+  background-color: darkred;
+}
+
+.add-btn {
+  margin-top: -8px;
+  align-self: flex-end;
+  background-color: #A7D7A7;
+  color: white;
+  border: none;
+  font-weight: 600;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 13px;
+  transition: background-color 0.2s ease;
+}
+
+.add-btn:hover {
+  background-color: #70A575;
+}
+
+.recognition-group {
+  align-items: flex-start;
+}
+
+.recognition-group label {
+  padding-top: 4px;
+}
+
+/*OCCUPANT*/
+.occupant-section {
+  max-width: 600px;
+  margin-bottom: 0px;
+}
+
+.occupant-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+  gap: 5px; 
+}
+
+.occupant-row label {
+  width: 135px;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+.occupant-row input {
+  flex: 1;
+  font-size: 12px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.remove-occupant-btn {
+  align-self: flex-end;
+  background-color: #C42A2A;
+  color: white;
+  border: none;
+  font-weight: 600;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 13px;
+  transition: background-color 0.2s ease;
+}
+
+.remove-occupant-btn:hover {
+  background-color: darkred;
+}
+
+#add-occupant-btn {
+  margin-top: 5px;
+  align-self: flex-end;
+  background-color: #A7D7A7;
+  color: white;
+  border: none;
+  font-weight: 600;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-size: 13px;
+  transition: background-color 0.2s ease;
+}
+
+#add-occupant-btn:hover {
+  background-color: #70A575;
+}
