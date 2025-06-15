@@ -1,5 +1,3 @@
-dashboard.php
-
 <?php
 session_start();  // enables session management 
 include 'config.php';  // connection to MySQL with $conn (census)
