@@ -1,0 +1,148 @@
+"educationID","personID","schoolName","schoolAddress","course","level","yearFinished","acadRecognition"
+"1","1","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2001","With Honors"
+"2","1","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2005","Salutatorian"
+"3","1","Litlit College of Technology","Barangay Litlit, Cavite","Information Technology","College","2009","Cum Laude"
+"4","2","Litlit Vocational Training Center","Barangay Litlit, Cavite","Welding Technology","Vocational","2012",
+"5","3","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2002",
+"6","3","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2006",
+"7","3","Litlit College of Arts","Barangay Litlit, Cavite","Fine Arts","College","2010","Magna Cum Laude"
+"8","4","Litlit Vocational Training Center","Barangay Litlit, Cavite","Baking and Pastry","Vocational","2005",
+"9","5","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1990",
+"10","5","Litlit High School","Barangay Litlit, Cavite",,"Highschool","1994",
+"11","5","Litlit Institute of Business","Barangay Litlit, Cavite","Business Administration","College","1998","Cum Laude"
+"12","6","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2007","With Honors"
+"13","6","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2011",
+"14","6","Litlit Polytechnic College","Barangay Litlit, Cavite","Environmental Science","College","2015","Magna Cum Laude"
+"15","7","Litlit Vocational Training Center","Barangay Litlit, Cavite","Auto Mechanics","Vocational","2002",
+"16","8","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2004",
+"17","8","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2008",
+"18","8","Litlit College of Design","Barangay Litlit, Cavite","Interior Design","College","2012","Summa Cum Laude"
+"19","9","Litlit Vocational Training Center","Barangay Litlit, Cavite","Electrician","Vocational","2008",
+"20","10","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1987",
+"21","10","Litlit High School","Barangay Litlit, Cavite",,"Highschool","1991","Valedictorian"
+"22","10","Litlit School of Nursing","Barangay Litlit, Cavite","Nursing","College","1995","Cum Laude"
+"23","11","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2003",
+"24","11","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2007",
+"25","11","Litlit Engineering College","Barangay Litlit, Cavite","Mechanical Engineering","College","2011","Dean’s Lister"
+"26","12","Litlit Vocational Training Center","Barangay Litlit, Cavite","Fashion Design","Vocational","2004","Top 1"
+"27","13","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1995",
+"28","13","Litlit High School","Barangay Litlit, Cavite",,"Highschool","1999",
+"29","14","Litlit Vocational Training Center","Barangay Litlit, Cavite","Hair & Makeup","Vocational","2016",
+"30","15","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2004",
+"31","15","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2008",
+"32","15","Litlit School of Computing","Barangay Litlit, Cavite","Software Engineering","College","2012","Cum Laude"
+"33","16","Litlit Vocational Training Center","Barangay Litlit, Cavite","Tailoring","Vocational","2007",
+"34","17","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2011",
+"35","17","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2015",
+"36","18","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1996",
+"37","18","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2000",
+"38","18","Litlit Medical School","Barangay Litlit, Cavite","Pharmacy","College","2004","Dean’s Lister"
+"39","19","Litlit Vocational Training Center","Barangay Litlit, Cavite","Carpentry","Vocational","2010",
+"40","20","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1993",
+"41","20","Litlit High School","Barangay Litlit, Cavite",,"Highschool","1997",
+"42","20","Litlit Business Academy","Barangay Litlit, Cavite","Marketing","College","2001",
+"43","21","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2007",
+"44","21","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2011",
+"45","21","Litlit Institute of Tech","Barangay Litlit, Cavite","Information Systems","College","2015",
+"46","22","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2000",
+"47","22","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2004",
+"48","23","Litlit Vocational Training Center","Barangay Litlit, Cavite","Culinary Arts","Vocational","2015","Best Chef"
+"49","24","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1997",
+"50","24","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2001",
+"51","24","Litlit Maritime College","Barangay Litlit, Cavite","Marine Engineering","College","2005",
+"52","25","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2002",
+"53","25","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2006",
+"54","25","Litlit School of Health Sciences","Barangay Litlit, Cavite","Nursing","College","2010","Magna Cum Laude"
+"55","26","Litlit Vocational Training Center","Barangay Litlit, Cavite","Electrician Training","Vocational","2014",
+"56","27","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1994",
+"57","27","Litlit High School","Barangay Litlit, Cavite",,"Highschool","1998",
+"58","27","Litlit Business School","Barangay Litlit, Cavite","Finance","College","2002",
+"59","28","Litlit Vocational Training Center","Barangay Litlit, Cavite","Welding","Vocational","2013",
+"60","29","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","1998",
+"61","29","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2002",
+"62","29","Litlit Academy of Sciences","Barangay Litlit, Cavite","Biology","College","2006",
+"63","30","Litlit Elementary School","Barangay Litlit, Cavite",,"Elementary","2004",
+"64","30","Litlit High School","Barangay Litlit, Cavite",,"Highschool","2008",
+"65","30","Litlit Institute of Technology","Barangay Litlit, Cavite","Mechanical Engineering","College","2012",
+"66","1",,,,"Vocational",NULL,
+"67","5",,,,"Vocational",NULL,
+"68","7",,,,"Elementary",NULL,
+"69","7",,,,"Highschool",NULL,
+"70","7",,,,"College",NULL,
+"71","10",,,,"Vocational",NULL,
+"72","16",,,,"Elementary",NULL,
+"73","16",,,,"Highschool",NULL,
+"74","16",,,,"College",NULL,
+"75","26",,,,"Elementary",NULL,
+"76","26",,,,"Highschool",NULL,
+"77","26",,,,"College",NULL,
+"78","4",,,,"Elementary",NULL,
+"79","4",,,,"Highschool",NULL,
+"80","4",,,,"College",NULL,
+"occupantID","personID","occupantName","occupantBDate","occupantAge","occupantCvlStatus","familyPos"
+"1","1","Elowen Monroe","2011-03-15","13","Single","Daughter"
+"2","1","Jude Monroe","2014-08-07","10","Single","Son"
+"3","2","Nikolai Lennox","2016-06-22","8","Single","Son"
+"4","3","Carlo Garcia","2015-11-01","8","Single","Son"
+"5","3","Sofia Garcia","2018-04-15","5","Single","Daughter"
+"6","4","Lina Dela Cruz","2010-09-10","13","Single","Daughter"
+"7","5","Rina Gonzales","2005-05-20","19","Single","Daughter"
+"8","5","Mateo Gonzales","2008-08-03","16","Single","Son"
+"9","6","Mila Villanueva","2017-03-22","7","Single","Daughter"
+"10","7","Clara Mercado","2006-12-01","18","Single","Daughter"
+"11","7","Enzo Mercado","2009-08-18","15","Single","Son"
+"12","8","Elsa Ramos","2016-07-11","8","Single","Daughter"
+"13","9","Lila Torres","2012-02-14","12","Single","Daughter"
+"14","10","Nina Aquino","2000-04-18","24","Single","Daughter"
+"15","11","Mara Cruz","2018-10-10","5","Single","Daughter"
+"16","12","Nico Mendoza","2010-01-12","14","Single","Son"
+"17","12","Lia Mendoza","2013-06-21","11","Single","Daughter"
+"18","13","Rico Lopez","2006-04-10","18","Single","Son"
+"19","16","Sandro Fernandez","2012-02-19","12","Single","Son"
+"20","18","Paolo Diaz","2010-05-05","14","Single","Son"
+"21","19","Tina Villanueva","2015-09-13","9","Single","Daughter"
+"22","20","Lara Castillo","2008-03-12","16","Single","Daughter"
+"23","24","Elias Cruz","2010-08-20","13","Single","Son"
+"24","24","Lina Cruz","2013-02-17","11","Single","Daughter"
+"25","25","Aisha Abdul","2011-03-03","13","Single","Daughter"
+"26","27","Marco Ramos","2005-10-14","18","Single","Son"
+"27","28","Pablo Garcia","2018-01-21","6","Single","Son"
+"28","30","Mila Santos","2015-05-10","9","Single","Daughter"
+"29","1","John Monroe","1995-06-07","30","Married","Husband"
+"30","5","Eliana Gonzales","1980-05-20","45","Married","Wife"
+"31","7","Angelica Mercado","1993-12-05","31","Single","Wife"
+"32","10","Borkchop Aquino","1980-07-07","44","Single","Brother"
+"33","16","Bellatrix San Josse","1995-12-31","29","Married","Friend"
+"34","26","Nojav","2006-01-20","19","Single","Freeloader"
+"35","4","Cedrick","2004-06-24","20","Single","Godson "
+"personID","name","address","birthDate","birthPlace","nationality","religion","sex","height","weight","contactNo","email","maritalStatus","motherNameMaiden","fatherName"
+"1","Caspian Monroe","Blk 12 Lot 4 Purok 3, Barangay Litlit, Cavite","1989-04-12","Berlin","German","Lutheran","male","178cm","72kg","09178889991","caspian.monroe@infoman.com","Married","Elsa Kruger","Matthias Monroe"
+"2","Soraya Lennox","Blk 18 Lot 9 Purok 2, Barangay Litlit, Cavite","1993-10-09","Toronto","Canadian","Atheist","female","165cm","58kg","09179992233","soraya.lennox@gogol.com","Single","Monique Hart","Darren Lennox"
+"3","Maria Garcia","Blk 5 Lot 20 Purok 1, Barangay Litlit, Cavite","1990-07-22","Davao City","Filipino","Catholic","female","167cm","60kg","09171234567","maria.garcia@infoman.com","Married","Teresa Lopez","Antonio Garcia"
+"4","Clara Dela Cruz","Blk 22 Lot 11 Purok 4, Barangay Litlit, Cavite","1985-02-14","Quezon City","Filipino","Catholic","female","160cm","55kg","09172345678","clara.delacruz@infoman.com","Single","Rosa Ramos","Juan Dela Cruz"
+"5","Pedro Gonzales","Blk 8 Lot 2 Purok 5, Barangay Litlit, Cavite","1978-12-05","Baguio City","Filipino","Catholic","male","182cm","80kg","09173456789","pedro.gonzales@infoman.com","Married","Elena Perez","Jose Gonzales"
+"6","Luz Villanueva","Blk 14 Lot 7 Purok 2, Barangay Litlit, Cavite","1995-01-30","Iloilo City","Filipino","Catholic","female","164cm","58kg","09174567890","luz.villanueva@infoman.com","Single","Carmen Castro","Ricardo Villanueva"
+"7","Jose Mercado","Blk 2 Lot 14 Purok 3, Barangay Litlit, Cavite","1982-09-17","Batangas City","Filipino","Catholic","male","175cm","70kg","09175678901","jose.mercado@infoman.com","Married","Teresa Aquino","Manuel Mercado"
+"8","Sofia Ramos","Blk 30 Lot 6 Purok 1, Barangay Litlit, Cavite","1992-05-23","Zamboanga City","Filipino","Catholic","female","170cm","62kg","09176789012","sofia.ramos@infoman.com","Single","Lina Torres","Carlos Ramos"
+"9","Miguel Torres","Blk 16 Lot 8 Purok 4, Barangay Litlit, Cavite","1988-11-02","Legazpi City","Filipino","Catholic","male","180cm","75kg","09177890123","miguel.torres@infoman.com","Divorced","Carmen Diaz","Rafael Torres"
+"10","Teresa Aquino","Blk 9 Lot 19 Purok 5, Barangay Litlit, Cavite","1975-06-29","San Fernando, La Union","Filipino","Catholic","female","166cm","61kg","09178901234","teresa.aquino@infoman.com","Widowed","Rosa Fernandez","Eduardo Aquino"
+"11","Rafael Cruz","Blk 11 Lot 8 Purok 2, Barangay Litlit, Cavite","1991-09-08","Tacloban City","Filipino","Catholic","male","174cm","68kg","09170011223","rafael.cruz@infoman.com","Single","Luz Rivera","Manuel Cruz"
+"12","Elena Mendoza","Blk 3 Lot 15 Purok 4, Barangay Litlit, Cavite","1986-03-11","Cagayan de Oro","Filipino","Catholic","female","168cm","59kg","09171122334","elena.mendoza@infoman.com","Married","Clara Santos","Jose Mendoza"
+"13","Manuel Lopez","Blk 27 Lot 7 Purok 5, Barangay Litlit, Cavite","1983-05-17","Bacolod City","Filipino","Catholic","male","181cm","78kg","09172233445","manuel.lopez@infoman.com","Married","Rosa Garcia","Antonio Lopez"
+"14","Lina Perez","Blk 13 Lot 6 Purok 1, Barangay Litlit, Cavite","1996-12-01","San Pablo City","Filipino","Catholic","female","172cm","65kg","09173344556","lina.perez@infoman.com","Single","Teresa Castillo","Eduardo Perez"
+"15","Carlos Rivera","Blk 19 Lot 3 Purok 2, Barangay Litlit, Cavite","1992-08-28","Puerto Princesa","Filipino","Catholic","male","177cm","70kg","09174455667","carlos.rivera@infoman.com","Single","Maria Villanueva","Juan Rivera"
+"16","Rosa Fernandez","Blk 6 Lot 17 Purok 3, Barangay Litlit, Cavite","1987-11-14","Tagbilaran City","Filipino","Catholic","female","162cm","56kg","09175566778","rosa.fernandez@infoman.com","Married","Luz Diaz","Manuel Fernandez"
+"17","Eduardo Castro","Blk 20 Lot 11 Purok 5, Barangay Litlit, Cavite","1999-04-30","Ormoc City","Filipino","Catholic","male","185cm","85kg","09176677889","eduardo.castro@infoman.com","Single","Clara Reyes","Pedro Castro"
+"18","Carmen Diaz","Blk 10 Lot 4 Purok 1, Barangay Litlit, Cavite","1984-02-05","Naga City","Filipino","Catholic","female","169cm","60kg","09177788990","carmen.diaz@infoman.com","Widowed","Teresa Santos","Rafael Diaz"
+"19","Ricardo Villanueva","Blk 25 Lot 5 Purok 2, Barangay Litlit, Cavite","1990-06-20","General Santos City","Filipino","Catholic","male","176cm","67kg","09178890001","ricardo.villanueva@infoman.com","Married","Maria Torres","Carlos Villanueva"
+"20","Mila Castillo","Blk 17 Lot 9 Purok 4, Barangay Litlit, Cavite","1981-01-18","Laoag City","Filipino","Catholic","female","163cm","57kg","09179901112","mila.castillo@infoman.com","Divorced","Rosa Cruz","Juan Castillo"
+"21","Antonio Reyes","Blk 30 Lot 1 Purok 5, Barangay Litlit, Cavite","1995-04-14","Butuan City","Filipino","Catholic","male","179cm","73kg","09171234521","antonio.reyes@infoman.com","Single","Clara Garcia","Manuel Reyes"
+"22","Jose Garcia","Blk 15 Lot 6 Purok 2, Barangay Litlit, Cavite","1988-01-26","Sorsogon City","Filipino","Catholic","male","176cm","70kg","09179999991","jose.garcia@infoman.com","Single","Maria Ramos","Pedro Garcia"
+"23","Teresa Santos","Blk 22 Lot 9 Purok 4, Barangay Litlit, Cavite","1997-06-30","Tuguegarao City","Filipino","Catholic","female","165cm","59kg","09178888888","teresa.santos@infoman.com","Single","Clara Cruz","Manuel Santos"
+"24","Manuel Cruz","Blk 14 Lot 12 Purok 1, Barangay Litlit, Cavite","1985-12-03","Vigan City","Filipino","Catholic","male","180cm","76kg","09175551234","manuel.cruz@infoman.com","Married","Rosa Torres","Juan Cruz"
+"25","Fatima Abdul","Blk 8 Lot 2 Purok 3, Barangay Litlit, Cavite","1990-09-17","Marawi City","Filipino","Muslim","female","160cm","52kg","09173336655","fatima.abdul@infoman.com","Widowed","Aisha Mohammad","Ibrahim Abdul"
+"26","Juan Torres","Blk 12 Lot 7 Purok 2, Barangay Litlit, Cavite","1996-07-25","Lucena City","Filipino","Catholic","male","172cm","68kg","09176664433","juan.torres@infoman.com","Single","Maria Reyes","Pedro Torres"
+"27","Clara Ramos","Blk 5 Lot 11 Purok 5, Barangay Litlit, Cavite","1982-02-12","San Juan City","Filipino","Catholic","female","169cm","60kg","09178884411","clara.ramos@infoman.com","Separated","Teresa Garcia","Manuel Ramos"
+"28","Pedro Garcia","Blk 7 Lot 8 Purok 4, Barangay Litlit, Cavite","1994-10-02","Dagupan City","Filipino","Catholic","male","183cm","80kg","09179992211","pedro.garcia@infoman.com","Married","Clara Santos","Jose Garcia"
+"29","Maria Cruz","Blk 29 Lot 6 Purok 1, Barangay Litlit, Cavite","1986-08-11","Calamba City","Filipino","Catholic","female","161cm","54kg","09170001112","maria.cruz@infoman.com","Divorced","Teresa Reyes","Juan Cruz"
+"30","Rafael Santos","Blk 10 Lot 1 Purok 2, Barangay Litlit, Cavite","1992-03-18","Roxas City","Filipino","Catholic","male","177cm","72kg","09171111231","rafael.santos@infoman.com","Married","Clara Torres","Manuel Santos"
