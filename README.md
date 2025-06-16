@@ -1,6 +1,9 @@
 # ProjectDatabaseIM
 Barangay Litlit Census Web Application (Database - IM)
 
+DOCUMENTATION:
+https://docs.google.com/document/d/1ltCMtKKxMeAtcRD9nEqw9a8om6XTNmYXDFQFYNCBpIo/edit?usp=drivesdk
+
 PROGRESS: https://docs.google.com/document/d/1rrKZpe0anHQw5cg1_Q0SjNEbKAiaRsS_CX6aCbgkrdU/edit?usp=sharing
 
 #FigmaLink
@@ -16,6 +19,14 @@ https://www.figma.com/design/za3yRonBGoYl4Fsgbjugji/Census-Web?node-id=0-1&t=k6Y
   - paste: https://github.com/kyrstnxx/IMProject-CensusForm.git
   - generate new folder
   - open in VSCode
+ 
+# Pull Main Branch
+- check if you have existing Main branch
+  - git branch
+
+- if yes,
+  - git checkout main
+  - git pull
 
 # Feature Branch 
 - make sure youre starting from the latest code:
@@ -27,7 +38,7 @@ https://www.figma.com/design/za3yRonBGoYl4Fsgbjugji/Census-Web?node-id=0-1&t=k6Y
   - *do the coding and shiz
 
 - you can now commit your changes:
-  - git add .
+  - git add 
   - git commit -m "describe what are your changes"
 
 # !GOOD PRACTICE - REBASING ONTO MAIN
