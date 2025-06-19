@@ -1,0 +1,50 @@
+CREATE DATABASE census;
+USE census;
+
+-- PERSON TABLE
+CREATE TABLE person (
+    personID INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50),
+    address VARCHAR (100),
+    birthDate DATE,
+    birthPlace VARCHAR(50),
+    nationality VARCHAR(20),
+    religion VARCHAR(20),
+    sex ENUM('male', 'female'),
+    height VARCHAR(10),
+    weight VARCHAR(10),
+    contactNo VARCHAR(20),
+    email VARCHAR(50),
+    maritalStatus ENUM('Single', 'Married', 'Widowed', 'Divorced', 'Separated') ,
+    motherNameMaiden VARCHAR(50),
+    fatherName VARCHAR(50)
+);
+
+-- EDUCATION TABLE (school attributes included here)
+CREATE TABLE education (
+    educationID INT AUTO_INCREMENT PRIMARY KEY,
+    personID INT,
+    schoolName VARCHAR(50),
+    schoolAddress VARCHAR(100),
+    course VARCHAR(50),
+    level ENUM('Elementary', 'Highschool', 'College', 'Vocational'),
+    yearFinished YEAR,
+    acadRecognition VARCHAR(50),
+    FOREIGN KEY (personID) REFERENCES person(personID)
+        ON DELETE CASCADE
+);
+
+
+
+-- OCCUPANT TABLE
+CREATE TABLE occupant (
+    occupantID INT AUTO_INCREMENT PRIMARY KEY,
+    personID INT,
+    occupantName VARCHAR(100),
+    occupantBDate DATE,
+    occupantAge INT,
+    occupantCvlStatus ENUM('Single', 'Married', 'Widowed', 'Divorced', 'Separated'),
+    familyPos VARCHAR(50),
+    FOREIGN KEY (personID) REFERENCES person(personID)
+        ON DELETE CASCADE
+);
