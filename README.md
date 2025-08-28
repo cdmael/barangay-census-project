@@ -1,4 +1,5 @@
-# ProjectDatabaseIM
+<<<<<<< HEAD
+# Barangay Census Project
 Barangay Litlit Census Web Application (Database - IM)
 
 DOCUMENTATION:
@@ -56,3 +57,4 @@ https://www.figma.com/design/za3yRonBGoYl4Fsgbjugji/Census-Web?node-id=0-1&t=k6Y
 
 # DELETE FEATURE BRANCH (OPTIONAL)
   - git branch -d feature/my-feature
+=======
